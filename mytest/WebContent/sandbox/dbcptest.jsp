@@ -15,7 +15,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>dbcp 이용</h1>
+<h1>dbcp 이용 - 톰켓이 구현한 12324</h1>
 <%
 	Connection con=null;
 	PreparedStatement ps=null;
